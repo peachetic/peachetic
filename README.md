@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  $\textcolor{#DF674F}{I}$ $\textcolor{#F2CDC5}{just}$ $\textcolor{#DCE6E7}{gotta}$ $\textcolor{#F2CDC5}{get}$ $\textcolor{#DF674F}{it,}$ $\textcolor{#F2CDC5}{watch}$ $\textcolor{#DCE6E7}{me,}$ $\textcolor{#F2CDC5}{go,}$ $\textcolor{#DF674F}{go,}$ $\textcolor{#F2CDC5}{go,}$ $\textcolor{#DCE6E7}{go,}$ $\textcolor{#F2CDC5}{go,}$ $\textcolor{#DF674F}{go}$ $\textcolor{#F2CDC5}{!}$
+  $\textcolor{#DF674F}{𝖨}$ $\textcolor{#F2CDC5}{𝗃𝗎𝗌𝗍}$ $\textcolor{#DCE6E7}{𝗀𝗈𝗍𝗍𝖺}$ $\textcolor{#F2CDC5}{𝗀𝖾𝗍}$ $\textcolor{#DF674F}{𝗂𝗍,}$ $\textcolor{#F2CDC5}{𝗐𝖺𝗍𝖼𝗁}$ $\textcolor{#DCE6E7}{𝗆𝖾,}$ $\textcolor{#F2CDC5}{𝗀𝗈,}$ $\textcolor{#DF674F}{𝗀𝗈,}$ $\textcolor{#F2CDC5}{𝗀𝗈,}$ $\textcolor{#DCE6E7}{𝗀𝗈,}$ $\textcolor{#F2CDC5}{𝗀𝗈,}$ $\textcolor{#DF674F}{𝗀𝗈}$ $\textcolor{#F2CDC5}{!}$
 </p>
 
 <p align="center"><a href="https://peachetic.atabook.org">新book</a></p>
