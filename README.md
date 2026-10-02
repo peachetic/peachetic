@@ -16,9 +16,12 @@
     </p>
 
 <p align="center">
-$\textcolor{#F2CDC5}{𝖶𝗈𝗋𝗄𝗂𝗇}$ $\textcolor{#DCE6E7}{𝗈𝗇}$ $\textcolor{#DCE6E7}{𝗈𝗍𝗁𝖾𝗋}$ $\textcolor{#F2CDC5}{𝗌𝗂𝗍𝖾𝗌}$
-  </p> 
+$\textcolor{#DF674F}{𝖭𝖾𝗐𝗅𝗒}$ $\textcolor{#F2CDC5}{𝗆𝖺𝖽𝖾}$ $\textcolor{#DCE6E7}{𝖺𝗍𝖺}$ $\textcolor{#DCE6E7}{𝗉𝗅𝗌}$ $\textcolor{#DF674F}{𝗌𝗂𝗀𝗇!!!}$
+</p>
+
+
 
 <p align="center">
-$\textcolor{#DF674F}{𝖬𝖺𝖽𝖾}$ $\textcolor{#F2CDC5}{𝖺}$ $\textcolor{#DCE6E7}{𝖼𝗈𝗆𝗉𝗅𝖾𝗍𝖾}$ $\textcolor{#DCE6E7}{𝗇𝖾𝗐}$ $\textcolor{#F2CDC5}{𝖺𝗍𝖺,}$ $\textcolor{#DF674F}{𝗌𝗂𝗀𝗇!!!}$
-</p>
+$\textcolor{#F2CDC5}{𝖶𝗈𝗋𝗄𝗂𝗇𝗀}$ $\textcolor{#DCE6E7}{𝗈𝗇}$ $\textcolor{#DCE6E7}{𝖼𝖺𝗋𝗋𝖽,}$ $\textcolor{#F2CDC5}{𝗌𝗍𝗋𝖺𝗐}$
+  </p> 
+
