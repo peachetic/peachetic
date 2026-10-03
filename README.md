@@ -21,7 +21,5 @@ $\textcolor{#DF674F}{𝖭𝖾𝗐𝗅𝗒}$ $\textcolor{#F2CDC5}{𝗆𝖺𝖽�
 
 
 
-<p align="center">
-$\textcolor{#F2CDC5}{𝖶𝗈𝗋𝗄𝗂𝗇𝗀}$ $\textcolor{#DCE6E7}{𝗈𝗇}$ $\textcolor{#DCE6E7}{𝖼𝖺𝗋𝗋𝖽,}$ $\textcolor{#F2CDC5}{𝗌𝗍𝗋𝖺𝗐}$
-  </p> 
+
 
