@@ -15,6 +15,9 @@
   <p align="center"><a href="https://peache.atabook.org">新book</a></p>
     </p>
 
+  <p align="center"><a href="https://peachetic.straw.page">straw</a></p>
+    </p>
+
 <p align="center">
 $\textcolor{#DF674F}{𝖭𝖾𝗐𝗅𝗒}$ $\textcolor{#F2CDC5}{𝗆𝖺𝖽𝖾}$ $\textcolor{#DCE6E7}{𝖺𝗍𝖺}$ $\textcolor{#F2CDC5}{𝗉𝗅𝗌}$ $\textcolor{#DF674F}{𝗌𝗂𝗀𝗇!}$
 </p>
