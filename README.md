@@ -19,7 +19,7 @@
     </p>
 
 <p align="center">
-$\textcolor{#DF674F}{𝖭𝖾𝗐𝗅𝗒}$ $\textcolor{#F2CDC5}{𝗆𝖺𝖽𝖾}$ $\textcolor{#DCE6E7}{𝖺𝗍𝖺}$ $\textcolor{#F2CDC5}{𝗉𝗅𝗌}$ $\textcolor{#DF674F}{𝗌𝗂𝗀𝗇!}$
+$\textcolor{#DF674F}{𝖱𝖾𝖺𝖽}$ $\textcolor{#F2CDC5}{𝗌𝗍𝗋𝖺𝗐𝗉}$ $\textcolor{#DCE6E7}{𝖻𝖾𝖿𝗈}$ $\textcolor{#F2CDC5}{𝗎}$ $\textcolor{#DF674F}{𝗂𝗇𝗍!}$
 </p>
 
 
